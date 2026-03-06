@@ -6,7 +6,7 @@ This project was developed as part of the Spring Camp organized by the Programmi
 
 * **Rust:** For the application logic.
 * **WGSL:** Used to write the shaders
-* 
+   
 Working on this project was a great way to explore:
 * The  maths of 3D rendering (like vector, rays, and sphere intersections).
 * The physics of lighting, including how materials reflect and absorb light.
